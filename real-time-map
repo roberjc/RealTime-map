@@ -48,12 +48,8 @@
 
     <style>
         #map {
-            width: 800px;
-            height: 500px;
-            /*
             height: 100%;
             width: 100%;
-            */
         }
 
         .info {
