@@ -256,7 +256,7 @@
             });
         }
         function buildMap(){
-            geojson = L.geoJson(statesData, {
+            geojson = L.geoJson(sectorData, {
                 style: style,
                 onEachFeature: onEachFeature
             }).addTo(map);
